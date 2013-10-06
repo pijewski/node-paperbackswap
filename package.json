@@ -8,5 +8,6 @@
 		"lru-cache": "2.3.1",
 		"xml2js": "0.2.8"
 	},
-	"repository": "git@github.com:pijewski/node-paperbackswap.git"
+	"repository": "git@github.com:pijewski/node-paperbackswap.git",
+	"main": "main"
 }
