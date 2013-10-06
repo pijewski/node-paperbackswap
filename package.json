@@ -1,0 +1,12 @@
+{
+	"name": "paperbackswap",
+	"description": "Node.js bindings for PaperbackSwap API",
+	"version": "0.0.1",
+	"author": "Bill Pijewski <bill.pijewski@gmail.com>",
+	"dependencies": {
+		"bunyan": "0.21.4",
+		"lru-cache": "2.3.1",
+		"xml2js": "0.2.8"
+	},
+	"repository": "git@github.com:pijewski/node-paperbackswap.git"
+}
