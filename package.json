@@ -1,7 +1,7 @@
 {
 	"name": "paperbackswap",
 	"description": "Node.js bindings for PaperbackSwap API",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"author": "Bill Pijewski <bill.pijewski@gmail.com>",
 	"dependencies": {
 		"bunyan": "0.21.4",
