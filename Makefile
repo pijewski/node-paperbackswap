@@ -6,5 +6,4 @@ check:
 	jsl --conf=tools/jsl.node.conf  ./lib/main.js
 
 clean:
-	rm -r node_modules
-
+	rm -rf node_modules
